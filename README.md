@@ -1,3 +1,23 @@
+# CODTECH-TASK-1
+
+Name: Sahana M Tandur
+
+Company: CODTECH IT SOLUTIONS
+
+Intern ID: CT12DS2334
+
+Domain: DEVOPS
+
+Duration: September 5th to November 5th
+
+Mentor: SANTOSH NEELA
+
+Project: KUBERNETES FOR CONTAINER ORCHESTRATION Technology used: AWS, Python, django
+
+
+
+
+
 # django-todo
 A simple todo app built with django
 -------------------------------------
