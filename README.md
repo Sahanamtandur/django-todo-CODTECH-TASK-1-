@@ -12,7 +12,9 @@ Duration: September 5th to November 5th
 
 Mentor: SANTOSH NEELA
 
-Project: KUBERNETES FOR CONTAINER ORCHESTRATION Technology used: AWS, Python, django
+Project: KUBERNETES FOR CONTAINER ORCHESTRATION 
+
+Technology used: AWS, Python, django
 
 
 
