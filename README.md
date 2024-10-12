@@ -23,12 +23,15 @@ Technology used: AWS, Python, django
 # django-todo
 A simple todo app built with django
 -------------------------------------
+![task2](https://github.com/user-attachments/assets/18fe95d0-c988-4c03-9b32-03a1b72361c7)
+
 ### Setup
 To get this repository, run the following command inside your git enabled terminal
 ```bash
 $ git clone https://github.com/Sahanamtandur/django-todo.git
 ```
-You will need django to be installed in you computer to run this app. Head over to https://www.djangoproject.com/download/ for the download guide
+You will need django to be installed in you computer to run this app. Head over to https://www.djangoproject.co
+m/download/ for the download guide
 
 Once you have downloaded django, go to the cloned repo directory and run the following command
 
